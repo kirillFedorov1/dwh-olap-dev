@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DWH Database Kirill Fedorov", "DWH Database Kirill Fedorov\DWH Database Kirill Fedorov.sqlproj", "{F6329C76-2326-41F8-B965-5E9D41248C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6329C76-2326-41F8-B965-5E9D41248C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6329C76-2326-41F8-B965-5E9D41248C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6329C76-2326-41F8-B965-5E9D41248C10}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6329C76-2326-41F8-B965-5E9D41248C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6329C76-2326-41F8-B965-5E9D41248C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6329C76-2326-41F8-B965-5E9D41248C10}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA249D0A-8083-4911-A636-586A876D0EE5}
+	EndGlobalSection
+EndGlobal
